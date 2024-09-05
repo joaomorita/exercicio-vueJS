@@ -27,7 +27,7 @@
         return estado.resultado
       
       default:
-        estado.resultado = numB + numB
+        estado.resultado = numA + numB
         return estado.resultado
     }
   }
